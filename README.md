@@ -13,7 +13,6 @@ This repository contains the Sentiment Analysis project performed using Databric
     - [4. Deployment](#4-deployment)
 5. [Key Results](#key-results)
 6. [Future Work](#future-work)
-7. [License](#license)
 
 ---
 
